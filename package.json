@@ -1,0 +1,23 @@
+{
+  "name": "payos-payout-sample",
+  "version": "1.0.0",
+  "description": "Sample gọi API chuyển tiền (payout) PayOS bằng Node.js cho cộng đồng.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "payos",
+    "payout",
+    "api",
+    "sample",
+    "nodejs"
+  ],
+  "author": "Cộng đồng PayOS",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0",
+    "uuid": "^9.0.1"
+  }
+}
